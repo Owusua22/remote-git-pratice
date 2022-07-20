@@ -1,0 +1,54 @@
+.free{
+	
+	background-color: black;
+	width: 40%;
+	color: white;
+	align-content: right;
+	font-size: 10px;
+	margin-left: 110px;
+	align-items: right;
+	margin-top: 29px;
+	text-align: center;
+}
+.dress {
+	text-align: center;
+}
+.cart {
+	background-color: black;
+	width: 100%;
+	color: white;
+	text-align: center;
+}
+.tag {
+	background-color: #ebebeb;
+	width: 55%;
+	border-radius: 60%;
+	padding: 10px;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 20px;
+	font-weight: bold;
+}
+.banner {
+	width: 100%;
+	height: 400px;
+}
+.navbar {
+	margin-top: 30px;
+}
+.ft {
+	font-weight: bold;
+}
+.amount {
+	font-weight: bold;
+	font-size: 16px;
+}
+.value {
+	font-size: 12px;
+	color: #999; 
+}
+.star {
+	color: #999;
+	font-size: 12px;
+	text-align: center;
+}
